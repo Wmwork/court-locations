@@ -1,0 +1,10 @@
+---
+
+category: data
+filename: court locations.csv
+weight: 1
+title: UK court locations
+descriptions: location data for all UK courts
+type: text/csv
+
+---
